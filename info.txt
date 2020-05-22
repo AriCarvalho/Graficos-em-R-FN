@@ -1,0 +1,4 @@
+install.packages(maps)
+install.packages(ggplot2)
+install.packages("lattice")
+install.packages("ggplot2")
